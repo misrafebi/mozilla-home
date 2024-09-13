@@ -506,37 +506,6 @@
         width: 350px;
     }
 }
-@media (max-width:850px) {
-    .part3-container {
-        margin-right: 19%;
-        margin-left: 30%;
-    }
-
-    #part3-container1 {
-        width: 350px;
-    }
-
-    #part3-container2 {
-        width: 350px;
-    }
-
-    #part3-container3 {
-        width: 350px;
-    }
-
-    #part3-container4 {
-        width: 350px;
-    }
-
-    #part3-container5 {
-        width: 350px;
-    }
-
-    #part3-container6 {
-        width: 350px;
-    }
-}
-
 
 .part3-logo {
     width: 48px;
